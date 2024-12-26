@@ -1,0 +1,89 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\leand\\Documents\\GitHub\\Nova pasta\\PWEB\\PediTiscos\\GestaoLoja\\GestaoLoja\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GestaoLoja.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GestaoLoja.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\leand\\Documents\\GitHub\\Nova pasta\\PWEB\\PediTiscos\\GestaoLoja\\GestaoLoja\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\leand\\Documents\\GitHub\\Nova pasta\\PWEB\\PediTiscos\\GestaoLoja\\GestaoLoja\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\leand\\Documents\\GitHub\\Nova pasta\\PWEB\\PediTiscos\\GestaoLoja\\GestaoLoja\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\leand\\Documents\\GitHub\\Nova pasta\\PWEB\\PediTiscos\\GestaoLoja\\GestaoLoja\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\leand\\Documents\\GitHub\\Nova pasta\\PWEB\\PediTiscos\\GestaoLoja\\GestaoLoja\\wwwroot\\img\\about.png",
+      "PackagePath": "staticwebassets\\img\\about.png"
+    },
+    {
+      "Id": "C:\\Users\\leand\\Documents\\GitHub\\Nova pasta\\PWEB\\PediTiscos\\GestaoLoja\\GestaoLoja\\wwwroot\\img\\backicon.png",
+      "PackagePath": "staticwebassets\\img\\backicon.png"
+    },
+    {
+      "Id": "C:\\Users\\leand\\Documents\\GitHub\\Nova pasta\\PWEB\\PediTiscos\\GestaoLoja\\GestaoLoja\\wwwroot\\img\\deleteicon.png",
+      "PackagePath": "staticwebassets\\img\\deleteicon.png"
+    },
+    {
+      "Id": "C:\\Users\\leand\\Documents\\GitHub\\Nova pasta\\PWEB\\PediTiscos\\GestaoLoja\\GestaoLoja\\wwwroot\\img\\detailsicon.png",
+      "PackagePath": "staticwebassets\\img\\detailsicon.png"
+    },
+    {
+      "Id": "C:\\Users\\leand\\Documents\\GitHub\\Nova pasta\\PWEB\\PediTiscos\\GestaoLoja\\GestaoLoja\\wwwroot\\img\\editicon.png",
+      "PackagePath": "staticwebassets\\img\\editicon.png"
+    },
+    {
+      "Id": "C:\\Users\\leand\\Documents\\GitHub\\Nova pasta\\PWEB\\PediTiscos\\GestaoLoja\\GestaoLoja\\wwwroot\\img\\frutaria.jpg",
+      "PackagePath": "staticwebassets\\img\\frutaria.jpg"
+    },
+    {
+      "Id": "C:\\Users\\leand\\Documents\\GitHub\\Nova pasta\\PWEB\\PediTiscos\\GestaoLoja\\GestaoLoja\\wwwroot\\img\\headicon.png",
+      "PackagePath": "staticwebassets\\img\\headicon.png"
+    },
+    {
+      "Id": "C:\\Users\\leand\\Documents\\GitHub\\Nova pasta\\PWEB\\PediTiscos\\GestaoLoja\\GestaoLoja\\wwwroot\\img\\icoperfil.png",
+      "PackagePath": "staticwebassets\\img\\icoperfil.png"
+    },
+    {
+      "Id": "C:\\Users\\leand\\Documents\\GitHub\\Nova pasta\\PWEB\\PediTiscos\\GestaoLoja\\GestaoLoja\\wwwroot\\img\\noproductstrans.png",
+      "PackagePath": "staticwebassets\\img\\noproductstrans.png"
+    },
+    {
+      "Id": "C:\\Users\\leand\\Documents\\GitHub\\Nova pasta\\PWEB\\PediTiscos\\GestaoLoja\\GestaoLoja\\wwwroot\\img\\novo.png",
+      "PackagePath": "staticwebassets\\img\\novo.png"
+    },
+    {
+      "Id": "C:\\Users\\leand\\Documents\\GitHub\\Nova pasta\\PWEB\\PediTiscos\\GestaoLoja\\GestaoLoja\\wwwroot\\img\\register.png",
+      "PackagePath": "staticwebassets\\img\\register.png"
+    },
+    {
+      "Id": "C:\\Users\\leand\\Documents\\GitHub\\Nova pasta\\PWEB\\PediTiscos\\GestaoLoja\\GestaoLoja\\wwwroot\\img\\saveicon.png",
+      "PackagePath": "staticwebassets\\img\\saveicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GestaoLoja.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GestaoLoja.props",
+      "PackagePath": "build\\GestaoLoja.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GestaoLoja.props",
+      "PackagePath": "buildMultiTargeting\\GestaoLoja.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GestaoLoja.props",
+      "PackagePath": "buildTransitive\\GestaoLoja.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
