@@ -1,9 +1,5 @@
 ﻿using Microsoft.Extensions.Logging;
 
-using RCLProdutos.Services.Interfaces;
-using RCLProdutos.Services;
-using RCLAPI.Services;
-
 namespace ProdutosMAUI
 {
     public static class MauiProgram
@@ -25,12 +21,7 @@ namespace ProdutosMAUI
     		builder.Logging.AddDebug();
 #endif
 
-            builder.Services.AddTransient<ISliderUtilsServices, SliderUtilsServices>();
-            builder.Services.AddTransient<ICardsUtilsServices, CardsUtilsServices>();
-
-            builder.Services.AddScoped<IApiServices, ApiService>();
-
             return builder.Build();
-            }
         }
     }
+}

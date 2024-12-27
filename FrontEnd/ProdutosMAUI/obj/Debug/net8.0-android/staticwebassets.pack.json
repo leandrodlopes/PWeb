@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\ProdutosMAUI\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\ProdutosMAUI.styles.css",
+      "PackagePath": "staticwebassets\\ProdutosMAUI.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\ProdutosMAUI\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\ProdutosMAUI\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\ProdutosMAUI\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\ProdutosMAUI\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\ProdutosMAUI\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.ProdutosMAUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.build.ProdutosMAUI.props",
+      "PackagePath": "build\\ProdutosMAUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildMultiTargeting.ProdutosMAUI.props",
+      "PackagePath": "buildMultiTargeting\\ProdutosMAUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildTransitive.ProdutosMAUI.props",
+      "PackagePath": "buildTransitive\\ProdutosMAUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
