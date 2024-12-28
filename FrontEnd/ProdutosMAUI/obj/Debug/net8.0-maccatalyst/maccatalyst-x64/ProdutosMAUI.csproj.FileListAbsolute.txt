@@ -848,6 +848,8 @@ C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-nativeaot.a
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.a
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.dylib
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\RCLCompras.dll
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\RCLCompras.pdb
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets.build.json
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets.development.json
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets\msbuild.ProdutosMAUI.Microsoft.AspNetCore.StaticWebAssets.props
@@ -864,9 +866,6 @@ C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauifont.inputs
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauisplash.inputs
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauisplash.stamp
-C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@3x.png
-C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@2x.png
-C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot.png
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
@@ -879,6 +878,9 @@ C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@3x.png
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@2x.png
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot.png
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauiimage.stamp
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauiimage.outputs
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\MauiInfo.plist
@@ -906,3 +908,9 @@ C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ProdutosMAUI.pdb
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ProdutosMAUI.genruntimeconfig.cache
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ref\ProdutosMAUI.dll
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\RCLAPI.dll
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\RCLComum.dll
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\RCLProdutos.dll
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\RCLAPI.pdb
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\RCLComum.pdb
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\RCLProdutos.pdb

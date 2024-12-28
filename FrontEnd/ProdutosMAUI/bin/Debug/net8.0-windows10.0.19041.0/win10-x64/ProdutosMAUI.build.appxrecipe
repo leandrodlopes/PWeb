@@ -1234,6 +1234,18 @@
     <AppxPackagedFile Include="C:\Users\leand\.nuget\packages\microsoft.windowsappsdk\1.5.240802000\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLAPI\bin\Debug\net8.0\RCLAPI.dll">
+      <PackagePath>RCLAPI.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLCompras\bin\Debug\net8.0\RCLCompras.dll">
+      <PackagePath>RCLCompras.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLComum\bin\Debug\net8.0\RCLComum.dll">
+      <PackagePath>RCLComum.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLProdutos\bin\Debug\net8.0\RCLProdutos.dll">
+      <PackagePath>RCLProdutos.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProdutosMAUI.deps.json">
       <PackagePath>ProdutosMAUI.deps.json</PackagePath>
     </AppxPackagedFile>

@@ -205,6 +205,9 @@ C:\Users\leand\Desktop\FrontEnd\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10
 C:\Users\leand\Desktop\FrontEnd\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\leand\Desktop\FrontEnd\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\leand\Desktop\FrontEnd\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ProdutosMAUI.exe
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ProdutosMAUI.deps.json
@@ -323,8 +326,6 @@ C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.SystemEvents.dll
-C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
-C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
@@ -548,8 +549,9 @@ C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
-C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\RCLCompras.dll
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\RCLCompras.pdb
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProdutosMAUI.csproj.AssemblyReference.cache
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.build.json
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.development.json
@@ -663,3 +665,9 @@ C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProdutosMAUI.genpublishdeps.cache
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\RCLAPI.dll
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\RCLComum.dll
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\RCLProdutos.dll
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\RCLAPI.pdb
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\RCLComum.pdb
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\RCLProdutos.pdb

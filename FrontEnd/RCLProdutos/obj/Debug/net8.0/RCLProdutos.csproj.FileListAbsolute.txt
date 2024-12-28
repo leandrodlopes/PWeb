@@ -20,7 +20,6 @@ C:\Users\leand\Desktop\FrontEnd\FrontEnd\RCLProdutos\obj\Debug\net8.0\refint\RCL
 C:\Users\leand\Desktop\FrontEnd\FrontEnd\RCLProdutos\obj\Debug\net8.0\RCLProdutos.pdb
 C:\Users\leand\Desktop\FrontEnd\FrontEnd\RCLProdutos\obj\Debug\net8.0\ref\RCLProdutos.dll
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLProdutos\bin\Debug\net8.0\RCLProdutos.deps.json
-C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLProdutos\bin\Debug\net8.0\RCLProdutos.runtimeconfig.json
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLProdutos\bin\Debug\net8.0\RCLProdutos.dll
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLProdutos\bin\Debug\net8.0\RCLProdutos.pdb
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLProdutos\obj\Debug\net8.0\RCLProdutos.csproj.AssemblyReference.cache
@@ -28,8 +27,6 @@ C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLProdutos\obj\Debug\net8.0\
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLProdutos\obj\Debug\net8.0\RCLProdutos.AssemblyInfoInputs.cache
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLProdutos\obj\Debug\net8.0\RCLProdutos.AssemblyInfo.cs
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLProdutos\obj\Debug\net8.0\RCLProdutos.csproj.CoreCompileInputs.cache
-C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLProdutos\obj\Debug\net8.0\RCLProdutos.RazorAssemblyInfo.cache
-C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLProdutos\obj\Debug\net8.0\RCLProdutos.RazorAssemblyInfo.cs
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLProdutos\obj\Debug\net8.0\RCLProdutos.sourcelink.json
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLProdutos\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLProdutos\obj\Debug\net8.0\staticwebassets.development.json
@@ -42,5 +39,4 @@ C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLProdutos\obj\Debug\net8.0\
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLProdutos\obj\Debug\net8.0\RCLProdutos.dll
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLProdutos\obj\Debug\net8.0\refint\RCLProdutos.dll
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLProdutos\obj\Debug\net8.0\RCLProdutos.pdb
-C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLProdutos\obj\Debug\net8.0\RCLProdutos.genruntimeconfig.cache
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLProdutos\obj\Debug\net8.0\ref\RCLProdutos.dll

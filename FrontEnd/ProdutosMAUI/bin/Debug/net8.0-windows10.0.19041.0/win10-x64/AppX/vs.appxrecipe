@@ -29,25 +29,25 @@
     <AppXManifest Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-12-28T01:35:49.784</Modified>
+      <Modified>2024-12-28T16:57:28.924</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-12-28T01:31:47.299</Modified>
+      <Modified>2024-12-28T16:56:08.706</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ProdutosMAUI.runtimeconfig.json">
       <PackagePath>ProdutosMAUI.runtimeconfig.json</PackagePath>
-      <Modified>2024-12-28T01:31:46.998</Modified>
+      <Modified>2024-12-28T16:57:25.272</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ProdutosMAUI.dll">
       <PackagePath>ProdutosMAUI.dll</PackagePath>
-      <Modified>2024-12-28T01:31:45.434</Modified>
+      <Modified>2024-12-28T16:56:07.067</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>ProdutosMAUI.exe</PackagePath>
-      <Modified>2024-12-28T01:31:45.491</Modified>
+      <Modified>2024-12-28T16:56:07.125</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -71,27 +71,27 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\wwwroot\index.html">
       <PackagePath>wwwroot\index.html</PackagePath>
-      <Modified>2024-12-28T00:54:06.372</Modified>
+      <Modified>2024-12-28T14:54:53.640</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2024-12-28T00:58:52.522</Modified>
+      <Modified>2024-12-28T16:56:04.781</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2024-12-28T00:58:52.546</Modified>
+      <Modified>2024-12-28T16:56:04.798</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2024-12-28T00:58:52.577</Modified>
+      <Modified>2024-12-28T16:56:04.822</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2024-12-28T00:58:52.626</Modified>
+      <Modified>2024-12-28T16:56:04.857</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2024-12-28T00:58:52.808</Modified>
+      <Modified>2024-12-28T16:56:05.003</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -99,207 +99,207 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-12-28T00:58:55.495</Modified>
+      <Modified>2024-12-28T16:56:05.886</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.483</Modified>
+      <Modified>2024-12-28T16:56:05.875</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.483</Modified>
+      <Modified>2024-12-28T16:56:05.875</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.483</Modified>
+      <Modified>2024-12-28T16:56:05.875</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.483</Modified>
+      <Modified>2024-12-28T16:56:05.875</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.483</Modified>
+      <Modified>2024-12-28T16:56:05.874</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.490</Modified>
+      <Modified>2024-12-28T16:56:05.882</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.490</Modified>
+      <Modified>2024-12-28T16:56:05.882</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.490</Modified>
+      <Modified>2024-12-28T16:56:05.881</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.490</Modified>
+      <Modified>2024-12-28T16:56:05.881</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.490</Modified>
+      <Modified>2024-12-28T16:56:05.881</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.491</Modified>
+      <Modified>2024-12-28T16:56:05.883</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.491</Modified>
+      <Modified>2024-12-28T16:56:05.883</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.491</Modified>
+      <Modified>2024-12-28T16:56:05.882</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.491</Modified>
+      <Modified>2024-12-28T16:56:05.882</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.491</Modified>
+      <Modified>2024-12-28T16:56:05.882</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.493</Modified>
+      <Modified>2024-12-28T16:56:05.886</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.493</Modified>
+      <Modified>2024-12-28T16:56:05.886</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.493</Modified>
+      <Modified>2024-12-28T16:56:05.885</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.493</Modified>
+      <Modified>2024-12-28T16:56:05.885</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.493</Modified>
+      <Modified>2024-12-28T16:56:05.885</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.493</Modified>
+      <Modified>2024-12-28T16:56:05.885</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.492</Modified>
+      <Modified>2024-12-28T16:56:05.885</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.492</Modified>
+      <Modified>2024-12-28T16:56:05.883</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.492</Modified>
+      <Modified>2024-12-28T16:56:05.883</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.492</Modified>
+      <Modified>2024-12-28T16:56:05.883</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.486</Modified>
+      <Modified>2024-12-28T16:56:05.879</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.486</Modified>
+      <Modified>2024-12-28T16:56:05.879</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.486</Modified>
+      <Modified>2024-12-28T16:56:05.878</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.486</Modified>
+      <Modified>2024-12-28T16:56:05.878</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.486</Modified>
+      <Modified>2024-12-28T16:56:05.878</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.487</Modified>
+      <Modified>2024-12-28T16:56:05.880</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.487</Modified>
+      <Modified>2024-12-28T16:56:05.879</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.487</Modified>
+      <Modified>2024-12-28T16:56:05.879</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.487</Modified>
+      <Modified>2024-12-28T16:56:05.879</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.487</Modified>
+      <Modified>2024-12-28T16:56:05.879</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.488</Modified>
+      <Modified>2024-12-28T16:56:05.881</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.488</Modified>
+      <Modified>2024-12-28T16:56:05.881</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.488</Modified>
+      <Modified>2024-12-28T16:56:05.880</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.488</Modified>
+      <Modified>2024-12-28T16:56:05.880</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.488</Modified>
+      <Modified>2024-12-28T16:56:05.880</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.485</Modified>
+      <Modified>2024-12-28T16:56:05.878</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.485</Modified>
+      <Modified>2024-12-28T16:56:05.876</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.485</Modified>
+      <Modified>2024-12-28T16:56:05.876</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.485</Modified>
+      <Modified>2024-12-28T16:56:05.876</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.485</Modified>
+      <Modified>2024-12-28T16:56:05.876</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.496</Modified>
+      <Modified>2024-12-28T16:56:05.887</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.496</Modified>
+      <Modified>2024-12-28T16:56:05.887</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.495</Modified>
+      <Modified>2024-12-28T16:56:05.886</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.495</Modified>
+      <Modified>2024-12-28T16:56:05.886</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-12-28T00:58:55.495</Modified>
+      <Modified>2024-12-28T16:56:05.886</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.44\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -1645,9 +1645,25 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2024-06-25T19:48:44.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLAPI\bin\Debug\net8.0\RCLAPI.dll">
+      <PackagePath>RCLAPI.dll</PackagePath>
+      <Modified>2024-12-28T16:55:49.195</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLCompras\bin\Debug\net8.0\RCLCompras.dll">
+      <PackagePath>RCLCompras.dll</PackagePath>
+      <Modified>2024-12-28T16:55:47.931</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLComum\bin\Debug\net8.0\RCLComum.dll">
+      <PackagePath>RCLComum.dll</PackagePath>
+      <Modified>2024-12-28T16:55:48.224</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLProdutos\bin\Debug\net8.0\RCLProdutos.dll">
+      <PackagePath>RCLProdutos.dll</PackagePath>
+      <Modified>2024-12-28T16:55:47.914</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProdutosMAUI.deps.json">
       <PackagePath>ProdutosMAUI.deps.json</PackagePath>
-      <Modified>2024-12-28T01:31:47.668</Modified>
+      <Modified>2024-12-28T16:57:25.623</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\.nuget\packages\microsoft.entityframeworkcore.design\8.0.11\lib\net8.0\Microsoft.EntityFrameworkCore.Design.dll">
       <PackagePath>Microsoft.EntityFrameworkCore.Design.dll</PackagePath>
@@ -1675,11 +1691,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\ProdutosMAUI.styles.css">
       <PackagePath>wwwroot\ProdutosMAUI.styles.css</PackagePath>
-      <Modified>2024-12-28T01:10:42.569</Modified>
+      <Modified>2024-12-28T16:55:52.923</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\ProdutosMAUI.bundle.scp.css">
       <PackagePath>wwwroot\ProdutosMAUI.bundle.scp.css</PackagePath>
-      <Modified>2024-12-28T00:54:06.292</Modified>
+      <Modified>2024-12-28T16:55:52.924</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\Components\Layout\MainLayout.razor.css">
       <PackagePath>Components\Layout\MainLayout.razor.css</PackagePath>

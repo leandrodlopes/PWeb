@@ -20,7 +20,6 @@ C:\Users\leand\Desktop\FrontEnd\FrontEnd\RCLAPI\obj\Debug\net8.0\refint\RCLAPI.d
 C:\Users\leand\Desktop\FrontEnd\FrontEnd\RCLAPI\obj\Debug\net8.0\RCLAPI.pdb
 C:\Users\leand\Desktop\FrontEnd\FrontEnd\RCLAPI\obj\Debug\net8.0\ref\RCLAPI.dll
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLAPI\bin\Debug\net8.0\RCLAPI.deps.json
-C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLAPI\bin\Debug\net8.0\RCLAPI.runtimeconfig.json
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLAPI\bin\Debug\net8.0\RCLAPI.dll
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLAPI\bin\Debug\net8.0\RCLAPI.pdb
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLAPI\obj\Debug\net8.0\RCLAPI.csproj.AssemblyReference.cache
@@ -28,8 +27,6 @@ C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLAPI\obj\Debug\net8.0\RCLAP
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLAPI\obj\Debug\net8.0\RCLAPI.AssemblyInfoInputs.cache
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLAPI\obj\Debug\net8.0\RCLAPI.AssemblyInfo.cs
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLAPI\obj\Debug\net8.0\RCLAPI.csproj.CoreCompileInputs.cache
-C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLAPI\obj\Debug\net8.0\RCLAPI.RazorAssemblyInfo.cache
-C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLAPI\obj\Debug\net8.0\RCLAPI.RazorAssemblyInfo.cs
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLAPI\obj\Debug\net8.0\RCLAPI.sourcelink.json
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLAPI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLAPI\obj\Debug\net8.0\staticwebassets.development.json
@@ -42,5 +39,4 @@ C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLAPI\obj\Debug\net8.0\scope
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLAPI\obj\Debug\net8.0\RCLAPI.dll
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLAPI\obj\Debug\net8.0\refint\RCLAPI.dll
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLAPI\obj\Debug\net8.0\RCLAPI.pdb
-C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLAPI\obj\Debug\net8.0\RCLAPI.genruntimeconfig.cache
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLAPI\obj\Debug\net8.0\ref\RCLAPI.dll

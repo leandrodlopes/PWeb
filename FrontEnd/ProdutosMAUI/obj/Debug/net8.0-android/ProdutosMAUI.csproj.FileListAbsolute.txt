@@ -1106,10 +1106,6 @@ C:\Users\leand\Desktop\FrontEnd\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\s
 C:\Users\leand\Desktop\FrontEnd\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Users\leand\Desktop\FrontEnd\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\leand\Desktop\FrontEnd\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
-C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\assets\Xamarin.AndroidX.RecyclerView.dll
-C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\assets\Xamarin.Google.Android.Material.pdb
-C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\assets\Xamarin.Google.Crypto.Tink.Android.dll
-C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\src\mono\androidx\appcompat\app\ActionBar_OnNavigationListenerImplementor.java
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-android\ProdutosMAUI.runtimeconfig.json
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-android\ProdutosMAUI.dll
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-android\ProdutosMAUI.pdb
@@ -1118,6 +1114,8 @@ C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-android\com.companyname.produtosmaui-Signed.aab
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-android\com.companyname.produtosmaui-Signed.apk
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-android\com.companyname.produtosmaui-Signed.apk.idsig
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-android\RCLCompras.dll
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-android\RCLCompras.pdb
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\build.props
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\adb.props
@@ -1149,6 +1147,11 @@ C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\mauisplash.stamp
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\mauifont.stamp
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\resizetizer\f\OpenSans-Regular.ttf
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\resizetizer\r\drawable-xxxhdpi\dotnet_bot.png
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\resizetizer\r\drawable-xxhdpi\dotnet_bot.png
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\resizetizer\r\drawable-xhdpi\dotnet_bot.png
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\resizetizer\r\drawable-hdpi\dotnet_bot.png
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\resizetizer\r\drawable-mdpi\dotnet_bot.png
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\resizetizer\r\mipmap-xxxhdpi\appicon_round.png
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\resizetizer\r\mipmap-xxhdpi\appicon_round.png
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\resizetizer\r\mipmap-xhdpi\appicon_round.png
@@ -1171,11 +1174,6 @@ C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\resizetizer\r\mipmap-xhdpi\appicon_background.png
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\resizetizer\r\mipmap-hdpi\appicon_background.png
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\resizetizer\r\mipmap-mdpi\appicon_background.png
-C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\resizetizer\r\drawable-xxxhdpi\dotnet_bot.png
-C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\resizetizer\r\drawable-xxhdpi\dotnet_bot.png
-C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\resizetizer\r\drawable-xhdpi\dotnet_bot.png
-C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\resizetizer\r\drawable-hdpi\dotnet_bot.png
-C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\resizetizer\r\drawable-mdpi\dotnet_bot.png
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\mauiimage.stamp
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\mauiimage.outputs
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\libraryprojectimports.cache
@@ -1247,6 +1245,7 @@ C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\ProdutosMAUI.csproj.CoreCompileInputs.cache
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\ProdutosMAUI.sourcelink.json
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\XamlC.stamp
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\Produtos.352163DF.Up2Date
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\ProdutosMAUI.dll
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\ProdutosMAUI.pdb
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\ProdutosMAUI.genruntimeconfig.cache
@@ -1533,6 +1532,8 @@ C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\assets\pt-BR\Microsoft.Maui.Controls.resources.dll
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\assets\pt\Humanizer.resources.dll
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\assets\pt\Microsoft.Maui.Controls.resources.dll
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\assets\RCLCompras.dll
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\assets\RCLCompras.pdb
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\assets\ro\Humanizer.resources.dll
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\assets\ro\Microsoft.Maui.Controls.resources.dll
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\assets\ru\Humanizer.resources.dll
@@ -1854,6 +1855,7 @@ C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\assets\Xamarin.AndroidX.Print.pdb
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\assets\Xamarin.AndroidX.ProfileInstaller.ProfileInstaller.dll
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\assets\Xamarin.AndroidX.ProfileInstaller.ProfileInstaller.pdb
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\assets\Xamarin.AndroidX.RecyclerView.dll
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\assets\Xamarin.AndroidX.RecyclerView.pdb
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\assets\Xamarin.AndroidX.ResourceInspection.Annotation.dll
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\assets\Xamarin.AndroidX.ResourceInspection.Annotation.pdb
@@ -1889,6 +1891,8 @@ C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\assets\Xamarin.AndroidX.Window.pdb
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\assets\Xamarin.Essentials.dll
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\assets\Xamarin.Google.Android.Material.dll
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\assets\Xamarin.Google.Android.Material.pdb
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\assets\Xamarin.Google.Crypto.Tink.Android.dll
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\assets\Xamarin.Google.ErrorProne.Annotations.dll
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\assets\Xamarin.Google.Guava.ListenableFuture.dll
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\assets\Xamarin.Jetbrains.Annotations.dll
@@ -2372,6 +2376,7 @@ C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\src\microsoft\maui\platform\MauiNavHostFragment.java
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\src\mono\androidx\activity\contextaware\OnContextAvailableListenerImplementor.java
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\src\mono\androidx\appcompat\app\ActionBar_OnNavigationListenerImplementor.java
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\src\mono\androidx\appcompat\app\ActionBar_TabListenerImplementor.java
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\src\mono\androidx\appcompat\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\src\mono\androidx\appcompat\widget\ContentFrameLayout_OnAttachListenerImplementor.java
@@ -2499,3 +2504,15 @@ C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-android\RCLAPI.dll
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-android\RCLComum.dll
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-android\RCLProdutos.dll
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-android\RCLAPI.pdb
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-android\RCLComum.pdb
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\bin\Debug\net8.0-android\RCLProdutos.pdb
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\assets\RCLAPI.dll
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\assets\RCLAPI.pdb
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\assets\RCLComum.dll
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\assets\RCLComum.pdb
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\assets\RCLProdutos.dll
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosMAUI\obj\Debug\net8.0-android\android\assets\RCLProdutos.pdb

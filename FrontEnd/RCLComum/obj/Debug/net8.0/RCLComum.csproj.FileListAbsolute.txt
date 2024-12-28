@@ -20,7 +20,6 @@ C:\Users\leand\Desktop\FrontEnd\FrontEnd\RCLComum\obj\Debug\net8.0\refint\RCLCom
 C:\Users\leand\Desktop\FrontEnd\FrontEnd\RCLComum\obj\Debug\net8.0\RCLComum.pdb
 C:\Users\leand\Desktop\FrontEnd\FrontEnd\RCLComum\obj\Debug\net8.0\ref\RCLComum.dll
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLComum\bin\Debug\net8.0\RCLComum.deps.json
-C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLComum\bin\Debug\net8.0\RCLComum.runtimeconfig.json
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLComum\bin\Debug\net8.0\RCLComum.dll
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLComum\bin\Debug\net8.0\RCLComum.pdb
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLComum\obj\Debug\net8.0\RCLComum.csproj.AssemblyReference.cache
@@ -28,8 +27,6 @@ C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLComum\obj\Debug\net8.0\RCL
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLComum\obj\Debug\net8.0\RCLComum.AssemblyInfoInputs.cache
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLComum\obj\Debug\net8.0\RCLComum.AssemblyInfo.cs
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLComum\obj\Debug\net8.0\RCLComum.csproj.CoreCompileInputs.cache
-C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLComum\obj\Debug\net8.0\RCLComum.RazorAssemblyInfo.cache
-C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLComum\obj\Debug\net8.0\RCLComum.RazorAssemblyInfo.cs
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLComum\obj\Debug\net8.0\RCLComum.sourcelink.json
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLComum\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLComum\obj\Debug\net8.0\staticwebassets.development.json
@@ -42,5 +39,4 @@ C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLComum\obj\Debug\net8.0\sco
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLComum\obj\Debug\net8.0\RCLComum.dll
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLComum\obj\Debug\net8.0\refint\RCLComum.dll
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLComum\obj\Debug\net8.0\RCLComum.pdb
-C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLComum\obj\Debug\net8.0\RCLComum.genruntimeconfig.cache
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLComum\obj\Debug\net8.0\ref\RCLComum.dll

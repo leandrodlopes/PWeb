@@ -39,24 +39,8 @@
       "RelativeMoniker": "D:0:0:{7060194F-C0E1-4D63-8764-569CAA47103A}|ProdutosBlazor\\ProdutosBlazor.csproj|solutionrelative:produtosblazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E847D61C-7EC0-433B-A7A4-55197EA91E95}|RCLProdutos\\RCLProdutos.csproj|c:\\users\\leand\\documents\\github\\pweb\\pweb\\frontend\\rclprodutos\\areas\\myfeature\\pages\\page1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E847D61C-7EC0-433B-A7A4-55197EA91E95}|RCLProdutos\\RCLProdutos.csproj|solutionrelative:rclprodutos\\areas\\myfeature\\pages\\page1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CC8FEE0B-1537-49D8-8FB5-897AA0813BEB}|ProdutosMAUI\\ProdutosMAUI.csproj|c:\\users\\leand\\documents\\github\\pweb\\pweb\\frontend\\produtosmaui\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CC8FEE0B-1537-49D8-8FB5-897AA0813BEB}|ProdutosMAUI\\ProdutosMAUI.csproj|solutionrelative:produtosmaui\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC576836-2B21-49BD-A7DF-BFEEB4DB69AE}|RCLAPI\\RCLAPI.csproj|c:\\users\\leand\\documents\\github\\pweb\\pweb\\frontend\\rclapi\\areas\\myfeature\\pages\\page1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DC576836-2B21-49BD-A7DF-BFEEB4DB69AE}|RCLAPI\\RCLAPI.csproj|solutionrelative:rclapi\\areas\\myfeature\\pages\\page1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E6D6543-6601-4EC4-B0F7-FD5ADE133E2D}|RCLCompras\\RCLCompras.csproj|c:\\users\\leand\\documents\\github\\pweb\\pweb\\frontend\\rclcompras\\areas\\myfeature\\pages\\page1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3E6D6543-6601-4EC4-B0F7-FD5ADE133E2D}|RCLCompras\\RCLCompras.csproj|solutionrelative:rclcompras\\areas\\myfeature\\pages\\page1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92C5C6E7-A829-4179-B603-9F30072D9B40}|RCLComum\\RCLComum.csproj|c:\\users\\leand\\documents\\github\\pweb\\pweb\\frontend\\rclcomum\\areas\\myfeature\\pages\\page1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{92C5C6E7-A829-4179-B603-9F30072D9B40}|RCLComum\\RCLComum.csproj|solutionrelative:rclcomum\\areas\\myfeature\\pages\\page1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,19 +62,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\ProdutosBlazor\\Components\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "ProdutosBlazor\\Components\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\ProdutosBlazor\\Components\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "ProdutosBlazor\\Components\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T12:06:27.643Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\ProdutosBlazor\\Components\\Layout\\NavMenu.razor",
@@ -99,34 +70,7 @@
               "RelativeToolTip": "ProdutosBlazor\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T12:06:18.36Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Counter.razor",
-              "DocumentMoniker": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\ProdutosBlazor\\Components\\Pages\\Counter.razor",
-              "RelativeDocumentMoniker": "ProdutosBlazor\\Components\\Pages\\Counter.razor",
-              "ToolTip": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\ProdutosBlazor\\Components\\Pages\\Counter.razor",
-              "RelativeToolTip": "ProdutosBlazor\\Components\\Pages\\Counter.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T12:06:07.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Error.razor",
-              "DocumentMoniker": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\ProdutosBlazor\\Components\\Pages\\Error.razor",
-              "RelativeDocumentMoniker": "ProdutosBlazor\\Components\\Pages\\Error.razor",
-              "ToolTip": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\ProdutosBlazor\\Components\\Pages\\Error.razor",
-              "RelativeToolTip": "ProdutosBlazor\\Components\\Pages\\Error.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T12:06:00.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T12:06:18.36Z"
             },
             {
               "$type": "Document",
@@ -143,6 +87,42 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\ProdutosBlazor\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "ProdutosBlazor\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\ProdutosBlazor\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "ProdutosBlazor\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T12:06:27.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\ProdutosBlazor\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "ProdutosBlazor\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\ProdutosBlazor\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "ProdutosBlazor\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T12:06:07.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\ProdutosBlazor\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "ProdutosBlazor\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\ProdutosBlazor\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "ProdutosBlazor\\Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T12:06:00.299Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Weather.razor",
               "DocumentMoniker": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\ProdutosBlazor\\Components\\Pages\\Weather.razor",
@@ -151,8 +131,7 @@
               "RelativeToolTip": "ProdutosBlazor\\Components\\Pages\\Weather.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T12:05:46.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T12:05:46.002Z"
             },
             {
               "$type": "Document",
@@ -164,8 +143,7 @@
               "RelativeToolTip": "ProdutosBlazor\\Components\\_Imports.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T11:58:02.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T11:58:02.548Z"
             },
             {
               "$type": "Document",
@@ -177,8 +155,7 @@
               "RelativeToolTip": "ProdutosBlazor\\Components\\App.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T11:57:36.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T11:57:36.783Z"
             },
             {
               "$type": "Document",
@@ -190,64 +167,11 @@
               "RelativeToolTip": "ProdutosBlazor\\Components\\Routes.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T11:56:48.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T11:56:48.232Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Page1.cshtml",
-              "DocumentMoniker": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\RCLProdutos\\Areas\\MyFeature\\Pages\\Page1.cshtml",
-              "RelativeDocumentMoniker": "RCLProdutos\\Areas\\MyFeature\\Pages\\Page1.cshtml",
-              "ToolTip": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\RCLProdutos\\Areas\\MyFeature\\Pages\\Page1.cshtml",
-              "RelativeToolTip": "RCLProdutos\\Areas\\MyFeature\\Pages\\Page1.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T23:06:52.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Page1.cshtml",
-              "DocumentMoniker": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\RCLComum\\Areas\\MyFeature\\Pages\\Page1.cshtml",
-              "RelativeDocumentMoniker": "RCLComum\\Areas\\MyFeature\\Pages\\Page1.cshtml",
-              "ToolTip": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\RCLComum\\Areas\\MyFeature\\Pages\\Page1.cshtml",
-              "RelativeToolTip": "RCLComum\\Areas\\MyFeature\\Pages\\Page1.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T23:06:12.778Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Page1.cshtml",
-              "DocumentMoniker": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\RCLCompras\\Areas\\MyFeature\\Pages\\Page1.cshtml",
-              "RelativeDocumentMoniker": "RCLCompras\\Areas\\MyFeature\\Pages\\Page1.cshtml",
-              "ToolTip": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\RCLCompras\\Areas\\MyFeature\\Pages\\Page1.cshtml",
-              "RelativeToolTip": "RCLCompras\\Areas\\MyFeature\\Pages\\Page1.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T23:05:20.471Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Page1.cshtml",
-              "DocumentMoniker": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\RCLAPI\\Areas\\MyFeature\\Pages\\Page1.cshtml",
-              "RelativeDocumentMoniker": "RCLAPI\\Areas\\MyFeature\\Pages\\Page1.cshtml",
-              "ToolTip": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\RCLAPI\\Areas\\MyFeature\\Pages\\Page1.cshtml",
-              "RelativeToolTip": "RCLAPI\\Areas\\MyFeature\\Pages\\Page1.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T23:04:35.095Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\ProdutosMAUI\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "ProdutosMAUI\\Components\\Pages\\Home.razor",
@@ -255,8 +179,7 @@
               "RelativeToolTip": "ProdutosMAUI\\Components\\Pages\\Home.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T23:01:11.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-27T23:01:11.257Z"
             }
           ]
         }
