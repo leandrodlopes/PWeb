@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\leand\\.nuget\\packages\\xamarin.essentials\\1.8.1\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7060194F-C0E1-4D63-8764-569CAA47103A}|ProdutosBlazor\\ProdutosBlazor.csproj|c:\\users\\leand\\documents\\github\\pweb\\pweb\\frontend\\produtosblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7060194F-C0E1-4D63-8764-569CAA47103A}|ProdutosBlazor\\ProdutosBlazor.csproj|solutionrelative:produtosblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -50,7 +53,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,7 +65,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\leand\\.nuget\\packages\\xamarin.essentials\\1.8.1\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\.nuget\\packages\\xamarin.essentials\\1.8.1\\readme.txt",
+              "ToolTip": "C:\\Users\\leand\\.nuget\\packages\\xamarin.essentials\\1.8.1\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\.nuget\\packages\\xamarin.essentials\\1.8.1\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-28T17:28:03.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\ProdutosBlazor\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "ProdutosBlazor\\Components\\Layout\\NavMenu.razor",
@@ -70,11 +86,12 @@
               "RelativeToolTip": "ProdutosBlazor\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T12:06:18.36Z"
+              "WhenOpened": "2024-12-28T12:06:18.36Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\ProdutosBlazor\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "ProdutosBlazor\\Components\\Pages\\Home.razor",
@@ -87,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\ProdutosBlazor\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "ProdutosBlazor\\Components\\Layout\\MainLayout.razor",
@@ -95,11 +112,12 @@
               "RelativeToolTip": "ProdutosBlazor\\Components\\Layout\\MainLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T12:06:27.643Z"
+              "WhenOpened": "2024-12-28T12:06:27.643Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Counter.razor",
               "DocumentMoniker": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\ProdutosBlazor\\Components\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "ProdutosBlazor\\Components\\Pages\\Counter.razor",
@@ -107,11 +125,12 @@
               "RelativeToolTip": "ProdutosBlazor\\Components\\Pages\\Counter.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T12:06:07.454Z"
+              "WhenOpened": "2024-12-28T12:06:07.454Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Error.razor",
               "DocumentMoniker": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\ProdutosBlazor\\Components\\Pages\\Error.razor",
               "RelativeDocumentMoniker": "ProdutosBlazor\\Components\\Pages\\Error.razor",
@@ -119,11 +138,12 @@
               "RelativeToolTip": "ProdutosBlazor\\Components\\Pages\\Error.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T12:06:00.299Z"
+              "WhenOpened": "2024-12-28T12:06:00.299Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Weather.razor",
               "DocumentMoniker": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\ProdutosBlazor\\Components\\Pages\\Weather.razor",
               "RelativeDocumentMoniker": "ProdutosBlazor\\Components\\Pages\\Weather.razor",
@@ -131,11 +151,12 @@
               "RelativeToolTip": "ProdutosBlazor\\Components\\Pages\\Weather.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T12:05:46.002Z"
+              "WhenOpened": "2024-12-28T12:05:46.002Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\ProdutosBlazor\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "ProdutosBlazor\\Components\\_Imports.razor",
@@ -143,11 +164,12 @@
               "RelativeToolTip": "ProdutosBlazor\\Components\\_Imports.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T11:58:02.548Z"
+              "WhenOpened": "2024-12-28T11:58:02.548Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\ProdutosBlazor\\Components\\App.razor",
               "RelativeDocumentMoniker": "ProdutosBlazor\\Components\\App.razor",
@@ -155,11 +177,12 @@
               "RelativeToolTip": "ProdutosBlazor\\Components\\App.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T11:57:36.783Z"
+              "WhenOpened": "2024-12-28T11:57:36.783Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Routes.razor",
               "DocumentMoniker": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\ProdutosBlazor\\Components\\Routes.razor",
               "RelativeDocumentMoniker": "ProdutosBlazor\\Components\\Routes.razor",
@@ -167,11 +190,12 @@
               "RelativeToolTip": "ProdutosBlazor\\Components\\Routes.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T11:56:48.232Z"
+              "WhenOpened": "2024-12-28T11:56:48.232Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\ProdutosMAUI\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "ProdutosMAUI\\Components\\Pages\\Home.razor",
@@ -179,7 +203,8 @@
               "RelativeToolTip": "ProdutosMAUI\\Components\\Pages\\Home.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T23:01:11.257Z"
+              "WhenOpened": "2024-12-27T23:01:11.257Z",
+              "EditorCaption": ""
             }
           ]
         }

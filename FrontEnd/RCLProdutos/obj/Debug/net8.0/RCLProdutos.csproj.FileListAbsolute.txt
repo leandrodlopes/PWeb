@@ -40,3 +40,6 @@ C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLProdutos\obj\Debug\net8.0\
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLProdutos\obj\Debug\net8.0\refint\RCLProdutos.dll
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLProdutos\obj\Debug\net8.0\RCLProdutos.pdb
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLProdutos\obj\Debug\net8.0\ref\RCLProdutos.dll
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLProdutos\bin\Debug\net8.0\RCLComum.dll
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLProdutos\bin\Debug\net8.0\RCLComum.pdb
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLProdutos\obj\Debug\net8.0\RCLProdu.31FE5CF1.Up2Date

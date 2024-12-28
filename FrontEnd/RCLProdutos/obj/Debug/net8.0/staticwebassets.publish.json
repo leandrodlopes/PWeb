@@ -1,11 +1,23 @@
 {
   "Version": 1,
-  "Hash": "MEIZYbuYCof8a8+PvYadw4Hsw7M5BmCNrHWBSpxY7x8=",
+  "Hash": "uABs0uP8C+NtN2cNX0Tj02VAG0MSSSa+oA1ZV3Jxvlo=",
   "Source": "RCLProdutos",
   "BasePath": "/",
   "Mode": "Root",
   "ManifestType": "Publish",
-  "ReferencedProjectsConfiguration": [],
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\RCLComum\\RCLComum.csproj",
+      "Version": 2,
+      "Source": "RCLComum",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
   "DiscoveryPatterns": [],
   "Assets": []
 }

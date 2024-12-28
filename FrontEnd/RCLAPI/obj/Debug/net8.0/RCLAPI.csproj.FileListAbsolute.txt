@@ -40,3 +40,10 @@ C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLAPI\obj\Debug\net8.0\RCLAP
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLAPI\obj\Debug\net8.0\refint\RCLAPI.dll
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLAPI\obj\Debug\net8.0\RCLAPI.pdb
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLAPI\obj\Debug\net8.0\ref\RCLAPI.dll
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLAPI\bin\Debug\net8.0\RCLCompras.dll
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLAPI\bin\Debug\net8.0\RCLComum.dll
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLAPI\bin\Debug\net8.0\RCLProdutos.dll
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLAPI\bin\Debug\net8.0\RCLCompras.pdb
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLAPI\bin\Debug\net8.0\RCLComum.pdb
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLAPI\bin\Debug\net8.0\RCLProdutos.pdb
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLAPI\obj\Debug\net8.0\RCLAPI.csproj.Up2Date

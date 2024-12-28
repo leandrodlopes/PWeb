@@ -40,3 +40,6 @@ C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLCompras\obj\Debug\net8.0\R
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLCompras\obj\Debug\net8.0\refint\RCLCompras.dll
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLCompras\obj\Debug\net8.0\RCLCompras.pdb
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLCompras\obj\Debug\net8.0\ref\RCLCompras.dll
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLCompras\bin\Debug\net8.0\RCLComum.dll
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLCompras\bin\Debug\net8.0\RCLComum.pdb
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\RCLCompras\obj\Debug\net8.0\RCLCompras.csproj.Up2Date

@@ -85,3 +85,7 @@ C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosBlazor\bin\Debug\net8
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosBlazor\bin\Debug\net8.0\RCLProdutos.pdb
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosBlazor\obj\Debug\net8.0\ProdutosBlazor.csproj.AssemblyReference.cache
 C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosBlazor\obj\Debug\net8.0\Produtos.42AFC98F.Up2Date
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosBlazor\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosBlazor\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosBlazor\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\leand\Documents\GitHub\PWeb\PWeb\FrontEnd\ProdutosBlazor\bin\Debug\net8.0\Xamarin.Essentials.dll

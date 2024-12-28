@@ -62,6 +62,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.8.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -113,7 +123,17 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\RCLCompras\\RCLCompras.csproj": {
+                "projectPath": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\RCLCompras\\RCLCompras.csproj"
+              },
+              "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\RCLComum\\RCLComum.csproj": {
+                "projectPath": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\RCLComum\\RCLComum.csproj"
+              },
+              "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\RCLProdutos\\RCLProdutos.csproj": {
+                "projectPath": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\RCLProdutos\\RCLProdutos.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -131,6 +151,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
             "Microsoft.AspNetCore.Components.Authorization": {
               "target": "Package",
               "version": "[8.0.11, )"
@@ -154,6 +178,10 @@
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[8.0.1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.8.1, )"
             }
           },
           "imports": [
@@ -204,7 +232,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\RCLComum\\RCLComum.csproj": {
+                "projectPath": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\RCLComum\\RCLComum.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -222,6 +254,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
             "Microsoft.AspNetCore.Components.Authorization": {
               "target": "Package",
               "version": "[8.0.11, )"
@@ -245,6 +281,10 @@
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[8.0.1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.8.1, )"
             }
           },
           "imports": [
@@ -313,6 +353,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
             "Microsoft.AspNetCore.Components.Authorization": {
               "target": "Package",
               "version": "[8.0.11, )"
@@ -336,6 +380,10 @@
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[8.0.1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.8.1, )"
             }
           },
           "imports": [
@@ -386,7 +434,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\RCLComum\\RCLComum.csproj": {
+                "projectPath": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\RCLComum\\RCLComum.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -404,6 +456,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
             "Microsoft.AspNetCore.Components.Authorization": {
               "target": "Package",
               "version": "[8.0.11, )"
@@ -427,6 +483,10 @@
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[8.0.1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.8.1, )"
             }
           },
           "imports": [

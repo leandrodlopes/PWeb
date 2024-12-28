@@ -2853,12 +2853,17 @@
       },
       "RCLAPI/1.0.0": {
         "dependencies": {
+          "DocumentFormat.OpenXml": "3.1.1",
           "Microsoft.AspNetCore.Components.Authorization": "8.0.11",
           "Microsoft.AspNetCore.Components.Web": "8.0.11",
           "Microsoft.AspNetCore.Components.WebView.Maui": "8.0.92",
           "Microsoft.EntityFrameworkCore": "8.0.11",
           "Microsoft.Extensions.Logging": "8.0.1",
-          "Microsoft.Extensions.Logging.Debug": "8.0.1"
+          "Microsoft.Extensions.Logging.Debug": "8.0.1",
+          "RCLCompras": "1.0.0",
+          "RCLComum": "1.0.0",
+          "RCLProdutos": "1.0.0",
+          "Xamarin.Essentials": "1.8.1"
         },
         "runtime": {
           "RCLAPI.dll": {
@@ -2869,12 +2874,15 @@
       },
       "RCLCompras/1.0.0": {
         "dependencies": {
+          "DocumentFormat.OpenXml": "3.1.1",
           "Microsoft.AspNetCore.Components.Authorization": "8.0.11",
           "Microsoft.AspNetCore.Components.Web": "8.0.11",
           "Microsoft.AspNetCore.Components.WebView.Maui": "8.0.92",
           "Microsoft.EntityFrameworkCore": "8.0.11",
           "Microsoft.Extensions.Logging": "8.0.1",
-          "Microsoft.Extensions.Logging.Debug": "8.0.1"
+          "Microsoft.Extensions.Logging.Debug": "8.0.1",
+          "RCLComum": "1.0.0",
+          "Xamarin.Essentials": "1.8.1"
         },
         "runtime": {
           "RCLCompras.dll": {
@@ -2885,12 +2893,14 @@
       },
       "RCLComum/1.0.0": {
         "dependencies": {
+          "DocumentFormat.OpenXml": "3.1.1",
           "Microsoft.AspNetCore.Components.Authorization": "8.0.11",
           "Microsoft.AspNetCore.Components.Web": "8.0.11",
           "Microsoft.AspNetCore.Components.WebView.Maui": "8.0.92",
           "Microsoft.EntityFrameworkCore": "8.0.11",
           "Microsoft.Extensions.Logging": "8.0.1",
-          "Microsoft.Extensions.Logging.Debug": "8.0.1"
+          "Microsoft.Extensions.Logging.Debug": "8.0.1",
+          "Xamarin.Essentials": "1.8.1"
         },
         "runtime": {
           "RCLComum.dll": {
@@ -2901,12 +2911,15 @@
       },
       "RCLProdutos/1.0.0": {
         "dependencies": {
+          "DocumentFormat.OpenXml": "3.1.1",
           "Microsoft.AspNetCore.Components.Authorization": "8.0.11",
           "Microsoft.AspNetCore.Components.Web": "8.0.11",
           "Microsoft.AspNetCore.Components.WebView.Maui": "8.0.92",
           "Microsoft.EntityFrameworkCore": "8.0.11",
           "Microsoft.Extensions.Logging": "8.0.1",
-          "Microsoft.Extensions.Logging.Debug": "8.0.1"
+          "Microsoft.Extensions.Logging.Debug": "8.0.1",
+          "RCLComum": "1.0.0",
+          "Xamarin.Essentials": "1.8.1"
         },
         "runtime": {
           "RCLProdutos.dll": {
