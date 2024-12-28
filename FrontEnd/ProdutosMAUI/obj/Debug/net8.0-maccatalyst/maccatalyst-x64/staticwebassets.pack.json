@@ -1,27 +1,27 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\leand\\Desktop\\FrontEnd\\FrontEnd\\ProdutosMAUI\\obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\ProdutosMAUI.styles.css",
+      "Id": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\ProdutosMAUI\\obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\ProdutosMAUI.styles.css",
       "PackagePath": "staticwebassets\\ProdutosMAUI.styles.css"
     },
     {
-      "Id": "C:\\Users\\leand\\Desktop\\FrontEnd\\FrontEnd\\ProdutosMAUI\\wwwroot\\css\\app.css",
+      "Id": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\ProdutosMAUI\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\leand\\Desktop\\FrontEnd\\FrontEnd\\ProdutosMAUI\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\ProdutosMAUI\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\leand\\Desktop\\FrontEnd\\FrontEnd\\ProdutosMAUI\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\ProdutosMAUI\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\leand\\Desktop\\FrontEnd\\FrontEnd\\ProdutosMAUI\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\ProdutosMAUI\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\leand\\Desktop\\FrontEnd\\FrontEnd\\ProdutosMAUI\\wwwroot\\index.html",
+      "Id": "C:\\Users\\leand\\Documents\\GitHub\\PWeb\\PWeb\\FrontEnd\\ProdutosMAUI\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
